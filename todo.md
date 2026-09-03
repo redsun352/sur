@@ -1,0 +1,24 @@
+# Project TODO
+
+- [x] Android portre ana ekranı ve yeni ölçüm akışı
+- [ ] Harita üzerinde polygon çizimi, köşe geri alma ve alan kapatma
+- [ ] Grid ayarları: hat aralığı, nokta aralığı, açı ve serpentine
+- [ ] Yerel SurveyProject / SurveyPoint / SurveySettings veri modelleri
+- [ ] Copernicus DEM karo indirme ve yerel önbellekleme
+- [ ] Her grid noktasında doğru CRS dönüşümüyle değişken Z örnekleme
+- [ ] Z min/max/farklı değer sayısı doğrulaması ve uyarı durumu
+- [ ] Sonuç haritasında Z yoğunluk renk skalası
+- [ ] DAT dışa aktarma: UTM ve WGS84 seçenekleri
+- [ ] CSV dışa aktarma ve Android paylaşım menüsü
+- [ ] DEM önbelleğini temizleme ve ayarlar ekranı
+- [ ] Android dosya sistemi ve paylaşım izinleri
+- [ ] Birim testleri: grid, Z dağılımı, DEM örnekleme ve DAT/CSV formatı
+- [ ] Android/Expo arayüz kalite kontrolü ve responsive doğrulama
+- [x] Özel uygulama logosu ve app.config.ts marka alanları
+- [x] Google Maps değerlendirmesi tamamlandı; API anahtarı gerektirmeyen harita seçildi
+- [x] Google Maps API anahtarı kullanılmaması kararı
+- [x] OpenStreetMap tabanlı WebView polygon çizim prototipi
+- [x] Android derlemesinin yüzde 1’de kalma sorununu teşhis et ve düzelt
+- [ ] GitHub Actions üzerinde APK build workflow’u kur ve indirilebilir artefact üret
+- [ ] GitHub Actions debug APK workflow’unu kur ve artefact indirmesini doğrula
+- [ ] redsun352/sur deposuna workflow commitini gönder ve GitHub Actions çalıştırmasını başlat
